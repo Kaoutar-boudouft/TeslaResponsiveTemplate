@@ -1,0 +1,44 @@
+﻿
+nav {
+    display:flex;
+}
+nav ul{
+    padding-left:20px;
+}
+nav ul li{
+    display:inline;
+    margin-left:20px;
+}
+#sec1 {
+    background-image: url('tesla-roadster-1-L74I_cover.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 900px;;
+    background-position: bottom;
+}
+#men1{
+    justify-content:center;
+    text-align: center;
+}
+#men2 {
+    justify-content: center;
+    text-align: center;
+}
+#men1 a {
+    text-decoration: none;
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+}
+#men1 a:hover{
+    color:red;
+    text-transform:uppercase;
+}
+#men2 a {
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+#men2 a:hover {
+    color: red;
+    text-transform: uppercase;
+}
